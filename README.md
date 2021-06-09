@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hello, I'm Kihwan kim who is interested in Game programming from South Korea.
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://merry-nightmare.tistory.com/)](https://merry-nightmare.tistory.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kim-kihwan-785b18193/)](https://www.linkedin.com/in/kim-kihwan-785b18193/)
+
+	
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilot1129&show_icons=true&theme=radical&hide=contribs,issues)
 )](https://github.com/anuraghazra/github-readme-stats)
 
