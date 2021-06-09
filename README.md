@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilot1129&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilot1129&show_icons=true&theme=radical&hide=contribs,issues)
 )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilot1129&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
