@@ -15,8 +15,7 @@ Hello, I'm Kihwan kim who is interested in Game programming from South Korea.
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilot1129&show_icons=true&theme=radical&hide=contribs,issues)
 )](https://github.com/anuraghazra/github-readme-stats)
