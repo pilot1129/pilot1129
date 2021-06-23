@@ -6,6 +6,9 @@
 
 Hello, I'm Kihwan kim who is interested in Game programming from South Korea.
 - 🌱 I’m currently learning OpenGL & C++
+- 🤔 My plan
+    - Mon~Fri : Coding Test Alg Practice
+    - Sat~Sun : Project
 
 
 ### Languages and tools
