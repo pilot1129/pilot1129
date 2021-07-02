@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kim-kihwan-785b18193/)](https://www.linkedin.com/in/kim-kihwan-785b18193/)
 
 Hello, I'm Kihwan kim who is interested in Game programming from South Korea.
-- 🌱 I’m currently learning OpenGL & C++
+- 🌱 I’m currently learning Unreal & C++ & little c#
 - 🤔 My plan
     - Mon~Fri : Coding Test Alg Practice
     - Sat~Sun : Project
