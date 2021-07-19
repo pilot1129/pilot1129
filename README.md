@@ -7,8 +7,7 @@
 Hello, I'm Kihwan kim who is interested in Game programming from South Korea.
 - 🌱 I’m currently learning Unreal & C++ & little c#
 - 🤔 My plan
-    - Mon~Fri : Coding Test Alg Practice
-    - Sat~Sun : Project
+    - Mon~Fri : Coding Test Alg Practice[Everyday] + UE4 Study
 
 
 ### Languages and tools
